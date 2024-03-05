@@ -1,6 +1,11 @@
 # TodoWebApp
 Welcome to our web project! This project is a sleek, functional web application designed to showcase the powerful combination of HTML, CSS, JavaScript, JSTL, and the robust Spring Boot framework. Whether you're looking to manage tasks, display dynamic content, or just explore the capabilities of modern web development, you've come to the right place!
+## About the App
+This Todo Management Web App project is designed to be a hands-on exploration into building a web application using modern Spring Boot methodologies. The journey covers foundational web concepts such as HTML, CSS, and the intricacies of web requests and responses, all the way through to more advanced topics including session management and authentication.
 
+At the heart of this project is Spring MVC, where we delve into the Dispatcher Servlet, view resolvers, and the MVC pattern, enriched with validations to ensure robust data handling. Spring Boot further streamlines our development process with its Starters and Auto Configuration features, allowing us to focus more on building and less on boilerplate code.
+
+We also leverage an array of tools and frameworks such as JSP, JSTL for templating, JPA for database interactions, Bootstrap for styling, Spring Security for application security, and databases like MySQL and H2 for storage solutions.
 ## Technologies Used
 
 - **HTML (Hyper Text Markup Language):** The backbone of our web pages. We use standard tags like `<html>`, `<head>`, `<body>`, and `<table>` to structure our content.
