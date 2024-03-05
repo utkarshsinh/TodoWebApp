@@ -26,7 +26,6 @@ To get this project up and running on your local machine, you'll need to have Ja
 
 ```
 mvn spring-boot:run
-
 ```
 
 ## Images
