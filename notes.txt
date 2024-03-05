@@ -1,0 +1,18 @@
+http://localhost:8080/login?name=Ranga
+
+
+localhost:8080/login
+
+B1: Identifies correct controller method
+/login => LoginController.gotoLoginPage
+
+B2: Executes Controller method
+=> Puts data into model
+=> Returns view name =>login
+
+B3: Identifies correct View
+/Web-INF/jsp/login.jsp
+
+B4: Excutes view
+
+SELECT* FROM TODO
